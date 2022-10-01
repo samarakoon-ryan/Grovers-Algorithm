@@ -13,4 +13,4 @@ Grover's algorithm demonstrates the possibility of superior searching capabiliti
 
 ## Implementation
 
-I've implemented an example using 2 qubits searching for |11> using Qiskit in an iPython notebook. A more thorough explanation of the algorithm is commented in the notebook `implementation.ipynb`. After implementation and experiment is ran with a simulator and a real device.
+I've implemented an example using 2 qubits searching for |11> using Qiskit in an iPython notebook. A more thorough explanation of the algorithm is commented in the notebook `implementation.ipynb`. After implementation experiments are ran with a simulator on Qiskit and a real device via IBMQ.
